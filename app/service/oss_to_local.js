@@ -45,10 +45,11 @@ module.exports = class OssToLocalService extends Service {
           {
             name: e.bookName,
             catalogues: e.catalogueList,
-            bookType: e.bookType,
-            author: e.author,
-            words: e.wordSum,
             catalogueTotal: e.catalogueSum,
+            bookType: e.bookType,
+            words: e.wordSum,
+            author: e.author,
+            intro: e.bookDesc,
           },
           (key, value) => {
             if (key === 'author') {
