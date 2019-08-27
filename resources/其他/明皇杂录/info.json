@@ -1,0 +1,15 @@
+{
+  "name": "明皇杂录",
+  "catalogues": [
+    "卷上",
+    "卷下",
+    "补遗"
+  ],
+  "author": {
+    "dynasty": "未知",
+    "intro": "暂无信息",
+    "name": "郑处诲"
+  },
+  "words": 10322,
+  "catalogueTotal": 3
+}

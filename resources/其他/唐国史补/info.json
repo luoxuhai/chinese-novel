@@ -1,0 +1,15 @@
+{
+  "name": "唐国史补",
+  "catalogues": [
+    "卷上",
+    "卷中",
+    "卷下"
+  ],
+  "author": {
+    "dynasty": "未知",
+    "intro": "李肇可以指：\n",
+    "name": "李肇"
+  },
+  "words": 19145,
+  "catalogueTotal": 3
+}

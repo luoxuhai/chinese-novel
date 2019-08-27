@@ -1,0 +1,16 @@
+{
+  "name": "唐阙史",
+  "catalogues": [
+    "序",
+    "卷上",
+    "卷下",
+    "逸文"
+  ],
+  "author": {
+    "dynasty": "未知",
+    "intro": "高彦休，号参寥子。唐代乾符年间人。\n",
+    "name": "高彦休"
+  },
+  "words": 19002,
+  "catalogueTotal": 4
+}

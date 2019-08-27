@@ -1,0 +1,15 @@
+{
+  "name": "冥报记",
+  "catalogues": [
+    "卷上",
+    "卷中",
+    "卷下"
+  ],
+  "author": {
+    "dynasty": "未知",
+    "intro": "唐临（600年－659年），字本德，唐代京兆长安人。\n",
+    "name": "唐临"
+  },
+  "words": 19638,
+  "catalogueTotal": 3
+}

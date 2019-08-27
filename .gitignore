@@ -7,9 +7,8 @@ yarn.lock
 coverage/
 .idea/
 run/
-app/
 config/
-test/
+app/model/
 .DS_Store
 *.sw*
 *.un~
