@@ -14,4 +14,3 @@ app/model/
 *.un~
 typings/
 .nyc_output/
-LICENSE
