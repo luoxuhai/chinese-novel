@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 4145,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "不着撰人"
   },
-  "words": 4145,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

@@ -104,12 +104,13 @@
     "第九十九回",
     "第一百回"
   ],
+  "catalogueTotal": 102,
   "bookType": "历史演义",
+  "words": 412115,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "李逸侯"
   },
-  "words": 412115,
-  "catalogueTotal": 102
+  "intro": "暂缺简介"
 }

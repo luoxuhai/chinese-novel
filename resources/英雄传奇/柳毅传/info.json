@@ -3,12 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
   "bookType": "英雄传奇",
+  "words": 3912,
   "author": {
     "dynasty": "未知",
     "intro": "李朝威（766年－820年），陇西（今甘肃省）人。唐代著名传奇作家。著有传奇文《柳毅传》、《柳参军传》等，行于世。后代戏曲家多取为题材。与李复言、李公佐合称‘陇西三李’。\n",
     "name": "李朝威"
   },
-  "words": 3912,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

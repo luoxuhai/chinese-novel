@@ -3,12 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
   "bookType": "历史演义",
+  "words": 7503,
   "author": {
     "dynasty": "未知",
     "intro": "乐史（930年－1007年），字子正，中国江西抚州宜黄县人，是五代、北宋时期的文学家、地理学家。南唐建隆三年（962年）进士第一，即状元，著有《太平寰宇记》、《杨太真外传》等。\n",
     "name": "乐史"
   },
-  "words": 7503,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

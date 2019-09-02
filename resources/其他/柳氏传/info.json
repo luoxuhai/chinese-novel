@@ -1,11 +1,13 @@
 {
   "name": "柳氏传",
   "catalogues": [],
+  "catalogueTotal": 0,
+  "bookType": "其他",
+  "words": 0,
   "author": {
     "dynasty": "未知",
     "intro": "许尧佐，生卒年不详，约唐宪宗时人，许康佐之弟。\n",
     "name": "许尧佐"
   },
-  "words": 0,
-  "catalogueTotal": 0
+  "intro": "简介暂无"
 }

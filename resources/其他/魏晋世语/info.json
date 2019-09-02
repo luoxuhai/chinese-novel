@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 482,
   "author": {
     "dynasty": "未知",
     "intro": "郭颁，一作郭班，字长公，西晋史学家，生卒年不详。初为令史，后出任襄阳令。\n",
     "name": "郭颁"
   },
-  "words": 482,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 386,
   "author": {
     "dynasty": "未知",
     "intro": "孟启（？－？），一作孟棨，字初中，唐朝平昌安丘人。\n",
     "name": "孟棨"
   },
-  "words": 386,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

@@ -26,11 +26,13 @@
     "第二十三回",
     "第二十四回"
   ],
+  "catalogueTotal": 24,
+  "bookType": "其他",
+  "words": 28128,
   "author": {
     "dynasty": "清",
     "intro": "暂无信息",
     "name": "壮者"
   },
-  "words": 28128,
-  "catalogueTotal": 24
+  "intro": "版本：清光绪商务印书馆刊本。廿四回。作者：壮者着。本书劝诫人们不要迷信，是清末反迷信文学作品中的代表性作品。"
 }

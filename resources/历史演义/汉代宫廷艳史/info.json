@@ -122,12 +122,13 @@
     "第一百十九回",
     "第一百二十回"
   ],
+  "catalogueTotal": 120,
   "bookType": "历史演义",
+  "words": 573744,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "徐哲身"
   },
-  "words": 573744,
-  "catalogueTotal": 120
+  "intro": "暂缺简介。"
 }

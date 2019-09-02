@@ -3,12 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
   "bookType": "英雄传奇",
+  "words": 1950,
   "author": {
     "dynasty": "未知",
     "intro": "杜光庭（850年－933年），字宾至，一说字宾圣，号东瀛子，处州缙云（今中国浙江）人。唐朝上清派著名道士。\n",
     "name": "杜光庭"
   },
-  "words": 1950,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

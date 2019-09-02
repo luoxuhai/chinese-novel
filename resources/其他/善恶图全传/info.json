@@ -42,11 +42,13 @@
     "第三十九回",
     "第四十回"
   ],
+  "catalogueTotal": 40,
+  "bookType": "其他",
+  "words": 139120,
   "author": {
     "dynasty": "清",
     "intro": "暂无信息",
     "name": "不题撰人"
   },
-  "words": 139120,
-  "catalogueTotal": 40
+  "intro": "版本：清代小说。颂德轩刊小字本。四十回。作者：不题撰人。内容：叙述恶徒李雷恶贯满盈终遭恶报的故事。"
 }

@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 3234,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "吕道生"
   },
-  "words": 3234,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

@@ -6,11 +6,13 @@
     "利集",
     "贞集"
   ],
+  "catalogueTotal": 4,
+  "bookType": "其他",
+  "words": 56705,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "佚名"
   },
-  "words": 56705,
-  "catalogueTotal": 4
+  "intro": "简介暂无"
 }

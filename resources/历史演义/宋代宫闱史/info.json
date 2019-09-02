@@ -101,12 +101,13 @@
     "第九十九回",
     "第一百回"
   ],
+  "catalogueTotal": 99,
   "bookType": "历史演义",
+  "words": 510650,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "许慕羲"
   },
-  "words": 510650,
-  "catalogueTotal": 99
+  "intro": "暂缺简介。"
 }

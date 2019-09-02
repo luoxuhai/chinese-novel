@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 7825,
   "author": {
     "dynasty": "未知",
     "intro": "孙棨（1882年－？）原名孙多棨，字孟戟，安徽省寿县人，中华民国官员。\n",
     "name": "孙棨"
   },
-  "words": 7825,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

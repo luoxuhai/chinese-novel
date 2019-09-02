@@ -6,11 +6,13 @@
     "卷中",
     "卷下"
   ],
+  "catalogueTotal": 4,
+  "bookType": "其他",
+  "words": 25408,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "李亢"
   },
-  "words": 25408,
-  "catalogueTotal": 4
+  "intro": "唐李亢《独异志》中，较早地记载了中国兄妹婚型的神话。"
 }

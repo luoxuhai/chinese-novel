@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 1537,
   "author": {
     "dynasty": "未知",
     "intro": "赵弼（？－？），字廷直，云南大理府太和县人，军籍，明朝政治人物、进士出身。\n",
     "name": "赵弼"
   },
-  "words": 1537,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

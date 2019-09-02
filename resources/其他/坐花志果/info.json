@@ -94,11 +94,13 @@
     "下卷 四六、冷甲",
     "跋"
   ],
+  "catalogueTotal": 92,
+  "bookType": "其他",
+  "words": 80187,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "汪道鼎"
   },
-  "words": 80187,
-  "catalogueTotal": 92
+  "intro": "简介暂无"
 }

@@ -46,7 +46,7 @@ module.exports = class OssToLocalService extends Service {
             name: e.bookName,
             catalogues: e.catalogueList,
             catalogueTotal: e.catalogueSum,
-            bookType: e.bookType,
+            bookType: e.bookType || '其他',
             words: e.wordSum,
             author: e.author,
             intro: e.bookDesc,

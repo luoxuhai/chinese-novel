@@ -72,12 +72,13 @@
     "第六十九回",
     "第七十回"
   ],
+  "catalogueTotal": 70,
   "bookType": "历史演义",
+  "words": 180823,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "冯梦龙 蔡元放"
   },
-  "words": 180823,
-  "catalogueTotal": 70
+  "intro": "暂缺简介。"
 }

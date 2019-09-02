@@ -25,12 +25,13 @@
     "OCR版序言",
     "扫校者后序"
   ],
+  "catalogueTotal": 23,
   "bookType": "鬼怪神魔",
+  "words": 881790,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "楞严阁主"
   },
-  "words": 881790,
-  "catalogueTotal": 23
+  "intro": "神魔列国志"
 }

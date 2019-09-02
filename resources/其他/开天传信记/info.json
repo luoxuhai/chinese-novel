@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 5142,
   "author": {
     "dynasty": "未知",
     "intro": "郑綮（9世纪－899年），字蕴武，中国唐朝官员，唐昭宗乾宁元年（894年）短暂拜为宰相。他以作歇后语诗讽刺政局打动唐昭宗闻名，这导致他即使忧虑不安仍被短期拜为宰相。\n",
     "name": "郑綮"
   },
-  "words": 5142,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

@@ -102,12 +102,13 @@
     "第九十九回",
     "第一百回"
   ],
+  "catalogueTotal": 100,
   "bookType": "历史演义",
+  "words": 315469,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "张恂子"
   },
-  "words": 315469,
-  "catalogueTotal": 100
+  "intro": "暂缺简介。"
 }

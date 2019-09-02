@@ -3,11 +3,13 @@
   "catalogues": [
     "原文"
   ],
+  "catalogueTotal": 1,
+  "bookType": "其他",
+  "words": 4181,
   "author": {
     "dynasty": "未知",
     "intro": "孙揆（9世纪－890年），字圣圭。唐朝昭义军节度使。\n",
     "name": "孙揆"
   },
-  "words": 4181,
-  "catalogueTotal": 1
+  "intro": "简介暂无"
 }

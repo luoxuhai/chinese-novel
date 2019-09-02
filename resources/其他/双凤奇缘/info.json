@@ -82,11 +82,13 @@
     "第七十九回",
     "第八十回"
   ],
+  "catalogueTotal": 80,
+  "bookType": "其他",
+  "words": 141456,
   "author": {
     "dynasty": "未知",
     "intro": "暂无信息",
     "name": "雪樵主人"
   },
-  "words": 141456,
-  "catalogueTotal": 80
+  "intro": "叙述王昭君姐妹和番、破番的故事。情节多取材自马致远《汉宫秋》，与史实无涉。"
 }
