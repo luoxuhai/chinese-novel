@@ -13,4 +13,6 @@ app/model/
 *.sw*
 *.un~
 typings/
+resources_zip/
+resources
 .nyc_output/
