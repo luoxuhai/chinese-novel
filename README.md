@@ -67,11 +67,16 @@
 从0开始递增的html文件, 总数为info.json中catalogues字段的length
 ```
 
+**快速生成中文图书封面[generator-cover](https://github.com/ibyli/generator-cover)**
+
 ## 案例展示
 
 - 古典名著苑微信小程序
+
   ![古典名著苑小程序](https://classics.oss-cn-beijing.aliyuncs.com/app/QRcode.jpg?x-oss-process=style/m)
 
 ## License
 
-[MIT](https://github.com/ibyli/chinese-novel/blob/master/LICENSE) 许可证.
+[MIT](https://github.com/ibyli/chinese-novel/blob/master/LICENSE)
+
+Copyright (c) 2019-present, ibyli

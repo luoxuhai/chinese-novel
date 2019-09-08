@@ -1,0 +1,1 @@
+PUT http://127.0.0.1:9000/oss_to_local/info HTTP/1.1

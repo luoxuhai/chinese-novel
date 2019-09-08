@@ -7,7 +7,7 @@
     "declarations": true
   },
   "dependencies": {
-    "egg": "^2.15.1",
+    "egg": "^2.23.0",
     "egg-mongoose": "^3.2.0",
     "egg-oss": "^2.0.0",
     "egg-scripts": "^2.11.0"

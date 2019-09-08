@@ -4,10 +4,10 @@ const Service = require('egg').Service;
 const fs = require('fs');
 
 module.exports = class OssToLocalService extends Service {
-  async index(localCount) {
+  async index(localCount, where = {}, isUpdateInfo = false) {
     const { ctx } = this;
 
-    const books = await ctx.model.Book.find({}, [
+    const books = await ctx.model.Book.find(where, [
       'bookName',
       'bookDesc',
       'bookType',
@@ -21,7 +21,7 @@ module.exports = class OssToLocalService extends Service {
       // 跳過本地已有圖書
       .skip(localCount);
 
-    for (const [ i, e ] of books.entries()) {
+    for (const e of books) {
       console.log(`開始緩存 ${e.bookName}`);
       const localPath = `${process.cwd()}/resources/${e.bookType || '其他'}/${
         e.bookName
@@ -31,11 +31,13 @@ module.exports = class OssToLocalService extends Service {
         recursive: true,
       });
 
-      for (const [ _i ] of e.catalogueList.entries()) {
-        await ctx.oss.get(
-          `${e.bookFile}/${_i}.html`,
-          `${localPath}/${_i}.html`
-        );
+      if (!isUpdateInfo) {
+        for (const [ _i ] of e.catalogueList.entries()) {
+          await ctx.oss.get(
+            `${e.bookFile}/${_i}.html`,
+            `${localPath}/${_i}.html`
+          );
+        }
       }
 
       // 生成圖書資訊JSON檔案

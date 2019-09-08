@@ -19,4 +19,12 @@ module.exports = class OssToLocalController extends Controller {
 
     ctx.body = `新增${addCount}`;
   }
+
+  async updateInfo() {
+    const { ctx } = this;
+
+    await ctx.service.ossToLocal.index(0, {}, true);
+
+    ctx.status = 201;
+  }
 };
