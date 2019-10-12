@@ -15,7 +15,7 @@ module.exports = class OssToLocalController extends Controller {
       localCount += fs.readdirSync(`${process.cwd()}/resources/${e}`).length;
     });
 
-    const addCount = await ctx.service.ossToLocal.index(425);
+    const addCount = await ctx.service.ossToLocal.index(412);
 
     ctx.body = `新增${addCount}`;
   }
