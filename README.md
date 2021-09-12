@@ -71,9 +71,9 @@
 
 ## 案例展示
 
-- 古典名著苑微信小程序
+- 古典文学名著阅读微信小程序
 
-  ![古典名著苑小程序](https://classics.oss-cn-beijing.aliyuncs.com/app/QRcode.jpg?x-oss-process=style/m)
+  ![古典文学名著阅读小程序](https://classics.oss-cn-beijing.aliyuncs.com/app/QRcode.jpg?x-oss-process=style/m)
 
 ## License
 
