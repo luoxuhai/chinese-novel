@@ -64,7 +64,7 @@
 ###### 图书内容 : _resources/世态人情/金瓶梅/\*.html_
 
 ```html
-从0开始递增的html文件, 总数为info.json中catalogues字段的length
+从 0 开始递增的 html 文件, 总数为 info.json 中 catalogues.length 字段
 ```
 
 **快速生成中文图书封面[generator-cover](https://github.com/ibyli/generator-cover)**
