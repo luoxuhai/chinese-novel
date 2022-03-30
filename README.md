@@ -79,4 +79,4 @@
 
 [MIT](https://github.com/ibyli/chinese-novel/blob/master/LICENSE)
 
-Copyright (c) 2019-present, ibyli
+Copyright (c) 2019-present, Darkce
